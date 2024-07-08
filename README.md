@@ -34,8 +34,10 @@ Amazon Web services | Docker | Git Actions CICD pipelines
 🌱 What I'm Currently Learning
 
 GraphQL
+
 Next.js
-AWS
+
+Nest.js
 
 📫 Get in Touch
 
