@@ -43,4 +43,3 @@ Nest.js
 
 Feel free to reach out to me for collaborations or just to say hi!
 
-Replace placeholders like Sethuramalingam Duraisamy, https://sethuramalingam-art.github.io/Sethuramalingam-Duraisamy-Portfolio/  with your actual details. This README gives a clear and structured overview of your skills, projects, and how to reach you.
