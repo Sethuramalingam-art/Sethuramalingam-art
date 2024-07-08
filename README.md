@@ -4,7 +4,9 @@ Hi there, I'm Sethuramalingam Duraisamy! 👋
 I'm a passionate Full Stack Developer specializing in building dynamic and scalable web applications using modern technologies. My expertise lies in both frontend and backend development, allowing me to create comprehensive and cohesive user experiences.
 
 🌐 Website: https://sethuramalingam-art.github.io/Sethuramalingam-Duraisamy-Portfolio/
+
 📫 How to reach me: duraisamy.sethuramalingam@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/sethuramalingam-duraisamy-587206110/
 
 🔧 Technologies & Tools
