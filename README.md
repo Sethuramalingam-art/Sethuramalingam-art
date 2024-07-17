@@ -14,7 +14,7 @@ I'm a passionate Full Stack Developer specializing in building dynamic and scala
 
 Frontend
 
-Javascript | Typescript | React.js | Angular | HTML | Tailwind CSS | CSS | LESS | React Native | Next.js | JEST | Jasmine | Selenium | Cypress | Karma | RTL 
+Javascript | Typescript | React.js | Angular | React Native | Next.js | HTML | Tailwind CSS | CSS | LESS  | JEST | Jasmine | Selenium | Cypress | Karma | RTL 
 
 State Management 
 
